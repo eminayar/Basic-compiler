@@ -27,6 +27,6 @@ pow(a,n) | power, a<sup>n</sup>
 
 The output of the 6 lines is:
 
-1abcd0
+`1abcd0`
 
-503673
+`503673`
